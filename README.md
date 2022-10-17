@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohankamble8&label=Profile%20views&color=0e75b6&style=flat" alt="sohankamble8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohankamble8" alt="sohankamble8" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sohankamble8" target="blank"><img src="https://img.shields.io/twitter/follow/sohankamble8?logo=twitter&style=for-the-badge" alt="sohankamble8" /></a> </p>
 
 - 🌱 I’m currently learning **Solidity, Ethereum Smart Contracts, Web3 Development**
