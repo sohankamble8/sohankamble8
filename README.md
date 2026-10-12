@@ -69,7 +69,7 @@
 - **Architecture:** Microservices, RESTful APIs, OOP, SOLID principles, Design Patterns, HLD, LLD
 - **Security:** Spring Security, JWT, Authentication & Authorization
 - **Data:** SQL, PostgreSQL, MySQL, Relational Database Design
-- **Messaging:** Apache Kafka, Confluent Kafka, Asynchronous Processing
+- **Messaging:** Apache Kafka, Asynchronous Processing
 - **Data Transformation:** XML, XSLT, XPath
 - **Engineering Practices:** Debugging, Code Reviews, Production Support, Root-Cause Analysis, CI/CD
 
