@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Software Engineer at **Deloitte**, with **5.8 years of professional experience** in backend development.
+- 💼 Software Engineer with **5.8 years of professional experience** in backend development.
 - ☕ Specializing in **Java, Spring Boot, REST APIs, and Microservices Architecture**.
 - 🏦 Experienced in enterprise applications across the **Insurance and Banking domains**.
 - 🔐 Working with Spring Security, JWT authentication, and API security.
